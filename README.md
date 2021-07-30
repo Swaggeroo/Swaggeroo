@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=swaggeroo.swaggeroo">
 <h1 align="center">
-  <a href="https://git.io/typing-svg" target="_blank">
+  <a href="https://git.io/typing-svg" target="blank">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Im+Swaggeroo;Hi!+👋;Welcome+to+my+profile!&center=true&size=30">
   </a>
 </h1>
@@ -17,14 +17,14 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/Vtpw3XGr7G" alt="Discord Server" target="_blank">
+  <a href="https://discord.gg/Vtpw3XGr7G" alt="Discord Server" target="blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
-  <a href="https://open.spotify.com/playlist/5aaXoulnajqKgmpgy9Xalj?si=7f91dc2d41654a3b" target="_blank"><img alt="My Playlist" title="My Playlist" src="https://img.shields.io/badge/My%20Playlist-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
-  <a href="https://steamcommunity.com/id/Swaggero_o/" target="_blank"><img alt="Steam" title="Steam" src="https://img.shields.io/badge/Steam-gray.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a>
-  <a href="https://www.twitch.tv/swaggero_o" target="_blank"><img alt="Twitch" title="Twitch" src="https://img.shields.io/badge/Twitch-purple.svg?&style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://youtube.com/channel/UCTe0sZstL29rsnfa8lODX0g" target="_blank"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.reddit.com/u/Swaggero_o" target="_blank"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/Reddit-orange.svg?&style=for-the-badge&logo=reddit&logoColor=white"/></a>
-  <a href="https://twitter.com/swaggeroo03" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://open.spotify.com/playlist/5aaXoulnajqKgmpgy9Xalj?si=7f91dc2d41654a3b" target="blank"><img alt="My Playlist" title="My Playlist" src="https://img.shields.io/badge/My%20Playlist-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <a href="https://steamcommunity.com/id/Swaggero_o/" target="blank"><img alt="Steam" title="Steam" src="https://img.shields.io/badge/Steam-gray.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a>
+  <a href="https://www.twitch.tv/swaggero_o" target="blank"><img alt="Twitch" title="Twitch" src="https://img.shields.io/badge/Twitch-purple.svg?&style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="https://youtube.com/channel/UCTe0sZstL29rsnfa8lODX0g" target="blank"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.reddit.com/u/Swaggero_o" target="blank"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/Reddit-orange.svg?&style=for-the-badge&logo=reddit&logoColor=white"/></a>
+  <a href="https://twitter.com/swaggeroo03" target="blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <hr>
 <h2 align="center">💻 Languages & Tools & Abilities 🛠</h2>
@@ -47,16 +47,16 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaggeroo&theme=highcontrast&layout=compact&hide_border=true" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" target="_blank">
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" target="blank">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=swaggeroo&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=highcontrast&hide_border=true" />
     </a>
   </div>
   <br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Swaggeroo&theme=highcontrast&layout=compact&hide_border=true" />
     </a>
   </div>
@@ -94,8 +94,8 @@
 <p  align="center">
 <sub>
 This readme is inspired by some other cool readme´s like:<br>
-<a href="https://github.com/zumrudu-anka/zumrudu-anka" target="_blank">zumrudu-anka</a>,
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme" target="_blank">awesome-github-profile-readme</a>
+<a href="https://github.com/zumrudu-anka/zumrudu-anka" target="blank">zumrudu-anka</a>,
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme" target="blank">awesome-github-profile-readme</a>
 </sub>
 </p>
 
