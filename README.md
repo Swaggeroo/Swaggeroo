@@ -64,3 +64,12 @@
 <p align="center">
     <img src="https://media.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif"/>
 </p>
+
+<p style="color: gray; font-size: xx-small" align="center">
+Note:<br>
+This readme is inspired by some other cool readme´s like:<br>
+<a href="https://github.com/zumrudu-anka/zumrudu-anka">zumrudu-anka</a><br><br>
+Here you find other nice readmes:<br>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">awesome-github-profile-readme</a>
+</p>
+
