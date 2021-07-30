@@ -51,6 +51,9 @@
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=swaggeroo&theme=theme=highcontrast&bg_color=000000&color=FFFFFF&hide_border=true" width="100%"/>
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 </p>
 <hr>
 
@@ -62,8 +65,12 @@
 </div>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="center">
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
+</p>
+<p align="center">
     <img src="https://media.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif"/>
 </p>
+
 
 <p  align="center">
 <sub>
