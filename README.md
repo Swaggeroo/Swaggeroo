@@ -65,12 +65,14 @@
     <img src="https://media.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif"/>
 </p>
 
-<p style="color: gray; font-size: xx-small" align="center">
-<sub><sup>
+<font color="gray" size="-1">
+<p  align="center">
+
 Note:<br>
 This readme is inspired by some other cool readme´s like:<br>
 <a href="https://github.com/zumrudu-anka/zumrudu-anka">zumrudu-anka</a>,<br>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">awesome-github-profile-readme</a>
-</sub></sup>
+
 </p>
+</font>
 
