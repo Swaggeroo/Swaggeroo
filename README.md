@@ -54,6 +54,10 @@
 <h4 align="center">Todoist</h4>
 <div align="center">
 <!-- TODO-IST:START -->
+🏆  6,538 Karma Points           
+🌸  Completed 1 tasks today           
+✅  Completed 1,077 tasks so far           
+⏳  Longest streak is 12 days
 <!-- TODO-IST:END -->
 </div>
 </p>
