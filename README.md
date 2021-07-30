@@ -66,9 +66,11 @@
 </p>
 
 <p style="color: gray; font-size: xx-small" align="center">
+<small>
 Note:<br>
 This readme is inspired by some other cool readme´s like:<br>
 <a href="https://github.com/zumrudu-anka/zumrudu-anka">zumrudu-anka</a>,<br>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">awesome-github-profile-readme</a>
+</small>
 </p>
 
