@@ -52,14 +52,14 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=swaggeroo&theme=theme=highcontrast&bg_color=000000&color=FFFFFF&hide_border=true" width="100%"/>
 <h4 align="center">Todoist</h4>
-<div align="center">
+
 <!-- TODO-IST:START -->
 🏆  6,538 Karma Points           
 🌸  Completed 1 tasks today           
 ✅  Completed 1,077 tasks so far           
 ⏳  Longest streak is 12 days
 <!-- TODO-IST:END -->
-</div>
+
 </p>
 <hr>
 
