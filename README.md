@@ -12,7 +12,7 @@
 <br>
 💞️ I’m looking to collaborate on everything that's interesting🙃
 <br>
-📫 How to reach me: <a href="https://discordapp.com/users/354967806984323083">Discord</a>
+📫 How to reach me: <a href="https://discord.gg/Vtpw3XGr7G">Discord Server</a> / <a href="https://discordapp.com/users/354967806984323083">Discord</a>
 </p>
 
 <hr>
