@@ -65,7 +65,7 @@
     <img src="https://media.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif"/>
 </p>
 
-<font color="gray" size="-1">
+<font color="gray" size="-5">
 <p  align="center">
 
 Note:<br>
