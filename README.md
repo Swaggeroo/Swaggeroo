@@ -57,7 +57,7 @@
   <br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Swaggeroo&theme=highcontrast&layout=compact&hide_border=true" />
+      <img width=525 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Swaggeroo&theme=highcontrast&layout=compact&hide_border=true" />
     </a>
   </div>
   <br>
