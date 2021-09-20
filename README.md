@@ -80,7 +80,7 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Swaggeroo/AndroidWirelesADB-PowerShell" title="AndroidWirelesADB-PowerShell"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=swaggeroo&repo=AndroidWirelesADB-PowerShell&theme=highcontrast&hide_border=true"></a>
-  <a align="right" href="https://github.com/Swaggeroo/Pixels_Fighting" title="Pixels Fighting"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=swaggeroo&repo=Pixels_Fighting&theme=highcontrast&hide_border=true"></a>
+  <a align="right" href="https://github.com/Swaggeroo/FotoVoting" title="Pixels Fighting"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=swaggeroo&repo=Pixels_Fighting&theme=highcontrast&hide_border=true"></a>
 </div>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="center">
