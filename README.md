@@ -61,7 +61,7 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=swaggeroo&theme=theme=highcontrast&bg_color=000000&color=FFFFFF&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=swaggeroo&theme=theme=highcontrast&bg_color=000000&color=FFFFFF&hide_border=true" width="100%"/>
 <h4 align="center">Todoist</h4>
 <div align="center">
 
