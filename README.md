@@ -7,13 +7,13 @@
 
 
 <p align="center">
-👀 I’m interested in Android / Java
+👀 I’m interested in JS and Java
 <br>
-🌱 I’m currently learning Java Script
+🌱 I’m currently learning Node.JS
 <br>
 💞️ I’m looking to collaborate on everything that's interesting🙃
 <br>
-📫 How to reach me: <a href="https://discord.gg/Vtpw3XGr7G">Discord Server</a> / <a href="https://discordapp.com/users/354967806984323083">Discord</a>
+📫 How to reach me: <a href="https://dcs.swaggeroo.de">Discord Server</a>
 </p>
 
 <p align="center">
