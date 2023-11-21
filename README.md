@@ -7,13 +7,13 @@
 
 
 <p align="center">
-👀 I’m interested in Android / Java
+👀 I’m interested in JS and Java
 <br>
-🌱 I’m currently learning Java Script
+🌱 I’m currently learning Node.JS
 <br>
 💞️ I’m looking to collaborate on everything that's interesting🙃
 <br>
-📫 How to reach me: <a href="https://discord.gg/Vtpw3XGr7G">Discord Server</a> / <a href="https://discordapp.com/users/354967806984323083">Discord</a>
+📫 How to reach me: <a href="https://dcs.swaggeroo.de">Discord Server</a>
 </p>
 
 <p align="center">
@@ -74,24 +74,24 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaggeroo&theme=highcontrast&layout=compact&hide_border=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" target="blank">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=swaggeroo&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=highcontrast&hide_border=true" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=swaggeroo&count_private=true&show_icons=true&theme=highcontrast&hide_border=true" />
     </a>
   </div>
   <br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Swaggeroo&theme=highcontrast&layout=compact&hide_border=true" />
+      <img width=525 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Swaggeroo&theme=highcontrast&layout=compact&hide_border=true" />
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=swaggeroo&theme=theme=highcontrast&bg_color=000000&color=FFFFFF&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=swaggeroo&theme=theme=highcontrast&bg_color=000000&color=FFFFFF&hide_border=true" width="100%"/>
 <h4 align="center">Todoist</h4>
 <div align="center">
 
 <!-- TODO-IST:START -->
-🏆  6,538 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 1,078 tasks so far           
+🏆  14,892 Karma Points           
+🌸  Completed 1 tasks today           
+✅  Completed 2,688 tasks so far           
 ⏳  Longest streak is 12 days
 <!-- TODO-IST:END -->
 </div>
