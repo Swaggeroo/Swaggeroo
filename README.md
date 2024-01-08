@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/Vtpw3XGr7G" alt="Website" target="blank">
+  <a href="https://swaggeroo.de" alt="Website" target="blank">
     <img src="https://img.shields.io/badge/-Website-5865F?style=for-the-badge&logoColor=white&logo=ESRI"/></a>
   <a href="https://discord.gg/Vtpw3XGr7G" alt="Discord Server" target="blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
