@@ -11,13 +11,13 @@
 
 
 <p align="center">
-👀 I’m interested in TS and Java
+👀 I’m interested in Homelabbing and TS
 <br>
-🌱 I’m currently learning Homelab
+🌱 I’m currently learning automating everything
 <br>
 💞️ I’m looking to collaborate on everything that's interesting🙃
 <br>
-📫 How to reach me: Swaggero_o (Discord) | <a href="https://discord.gg/Vtpw3XGr7G)">Discord Server</a>
+📫 How to reach me: Swaggero_o (Discord) | Or any of my socials
 </p>
 
 <p align="center">
