@@ -38,9 +38,13 @@
 <p align="center">
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="45px" alt="TypeScript"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="45px" alt="NodeJS"></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k3s/k3s-original.svg" width="45px" alt="K3S"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="45px" alt="Docker"></span>&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="45px" alt="Java"></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="45px" alt="ArgoCD"></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45px" alt="Linux"></span>&nbsp;
   <br>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="30px" alt="K8S"></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="30px" alt="Java"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="30px" alt="Javascript"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="30px" alt="C++"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px" alt="HTML5"></span>&nbsp;
@@ -52,7 +56,6 @@
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="30px" alt="Git"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30px" alt="GitHub"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="30px" alt="GitLab"></span>&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30px" alt="Linux"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="30px" alt="Intellij"></span>&nbsp;  
 </p>
 
